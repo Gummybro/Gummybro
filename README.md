@@ -1,6 +1,6 @@
 # Arif S. Anik
 
-Welcome to my GitHub. This is where I keep my Android projects and coursework.
+
 
 ## Android projects
 
