@@ -1,6 +1,14 @@
+# Arif Anik
 
+Computer science student at Gannon University building Android apps, desktop tools, and small browser projects. I like making practical ideas easy to try.
 
+## Featured projects
 
+| Project | What it is |
+| --- | --- |
+| [Daylight Desk](https://github.com/Gummybro/Daylight-Desk) | A calm Python and Tkinter focus timer that opens as a Windows desktop app |
+| [Mochi Match](https://github.com/Gummybro/Mochi-Match-Puzzle) | A cozy match-three puzzle with a 60-second challenge |
+| [Breach Busters: Cyber Quest](https://github.com/Gummybro/Breach-Busters-Cyber-Quest) | A browser-based cybersecurity learning game with six incident scenarios |
 
 ## Android projects
 
@@ -13,7 +21,7 @@
 | [Dice Roller](https://github.com/Gummybro/Dice_Roller) | Dice interface and Java practice |
 | [To-do Content Provider](https://github.com/Gummybro/TodoContentProviderApplication) | SQLite and Android content-provider practice |
 
-These are learning projects. Each repository documents its current scope, setup, and remaining work.
+These are learning projects. Each repository documents its scope, setup, and current state.
 
 ## Coursework
 
@@ -21,6 +29,6 @@ These are learning projects. Each repository documents its current scope, setup,
 - [Power Broadcast Receiver](https://github.com/Gummybro/Broadcast_RecieverAPP)
 - [Background Service Application](https://github.com/Gummybro/BackgroundServiceApplication)
 
-## Technologies in these repositories
+## Languages and tools
 
-Java · Kotlin · Android XML · Gradle · SQLite · HTML
+Python · Tkinter · Java · Kotlin · HTML · CSS · JavaScript · Android XML · Gradle · SQLite
